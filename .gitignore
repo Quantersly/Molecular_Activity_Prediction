@@ -1,0 +1,12 @@
+task.txt
+Task_H.docx
+29.pdf
+
+# Local environment and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+submission.csv
+
+# Competition data (do not publish without checking Kaggle rules)
+dataset/*
